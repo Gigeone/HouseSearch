@@ -18,7 +18,7 @@ const HouseContextProvider = ({ children }) => {
 
   useEffect(() => {
     // return all countries
-    const allCountries = houses.map((house) => {
+    const allCountries = housesData.map((house) => {
       return house.country
     })
 
@@ -31,7 +31,7 @@ const HouseContextProvider = ({ children }) => {
 
   useEffect(() => {
     // return only countries
-    const allProperties = houses.map((house) => {
+    const allProperties = housesData.map((house) => {
       return house.type
     })
 
@@ -99,6 +99,7 @@ const HouseContextProvider = ({ children }) => {
           return house.type === property
         }
       }
+      return false
     })
 
     setTimeout(() => {
