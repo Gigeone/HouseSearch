@@ -60,7 +60,7 @@ export const housesData = [
     type: 'House',
     name: 'House 1',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'A bright family home built in 2016, with 6 bedrooms and 3 bathrooms spread over 4200 sq ft. Large windows, a fully equipped kitchen and a two-car garage make everyday life simple. Move-in ready, with nothing to renovate.',
     image: House1,
     imageLg: House1Lg,
     country: 'United States',
@@ -81,7 +81,7 @@ export const housesData = [
     type: 'House',
     name: 'House 2',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Spacious 4200 sq ft house in a quiet residential street of Bridgewater, completed in 2016. The master suite has its own bathroom, while the backyard offers plenty of room for summer evenings. Close to major roads and local amenities.',
     image: House2,
     imageLg: House2Lg,
     country: 'Canada',
@@ -102,7 +102,7 @@ export const housesData = [
     type: 'House',
     name: 'House 3',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Welcoming 6-bedroom home with generous living spaces and a private garden, built in 2016. Hardwood floors, a modern heating system and a quiet neighbourhood: a home you can settle into straight away.',
     image: House3,
     imageLg: House3Lg,
     country: 'United States',
@@ -123,7 +123,7 @@ export const housesData = [
     type: 'House',
     name: 'House 4',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Well-kept 4200 sq ft property in Cocoa, ideal for a growing family. The open-plan kitchen flows into a sunny living room, and the 3 bathrooms keep busy mornings easy. Schools, shops and parks are all within a few minutes.',
     image: House4,
     imageLg: House4Lg,
     country: 'Canada',
@@ -144,7 +144,7 @@ export const housesData = [
     type: 'House',
     name: 'House 5',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'A bright family home built in 2015, with 5 bedrooms and 3 bathrooms spread over 4200 sq ft. Large windows, a fully equipped kitchen and a two-car garage make everyday life simple. Move-in ready, with nothing to renovate.',
     image: House5,
     imageLg: House5Lg,
     country: 'United States',
@@ -165,7 +165,7 @@ export const housesData = [
     type: 'House',
     name: 'House 6',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Spacious 6200 sq ft house in a quiet residential street of the city, completed in 2014. The master suite has its own bathroom, while the backyard offers plenty of room for summer evenings. Close to major roads and local amenities.',
     image: House6,
     imageLg: House6Lg,
     country: 'Canada',
@@ -186,7 +186,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 1',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Cosy 1200 sq ft apartment with 2 bedrooms, renovated and full of natural light. It comes with a balcony, secure parking and an elevator. Shops, cafés and transport are within walking distance.',
     image: Apartment1,
     imageLg: Apartment1Lg,
     country: 'Canada',
@@ -207,7 +207,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 2',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Bright 3-bedroom apartment in Warminster, in a well-maintained building from 2011. A practical layout, a fitted kitchen and low running costs make it a great first home or rental investment. Public transport is just around the corner.',
     image: Apartment2,
     imageLg: Apartment2Lg,
     country: 'United States',
@@ -228,7 +228,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 3',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Cosy 1100 sq ft apartment with 2 bedrooms, renovated and full of natural light. It comes with a balcony, secure parking and an elevator. Shops, cafés and transport are within walking distance.',
     image: Apartment3,
     imageLg: Apartment3Lg,
     country: 'United States',
@@ -249,7 +249,7 @@ export const housesData = [
     type: 'House',
     name: 'House 7',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Spacious 3200 sq ft house in a quiet residential street of Lawndale, completed in 2015. The master suite has its own bathroom, while the backyard offers plenty of room for summer evenings. Close to major roads and local amenities.',
     image: House7,
     imageLg: House7Lg,
     country: 'Canada',
@@ -270,7 +270,7 @@ export const housesData = [
     type: 'House',
     name: 'House 8',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Welcoming 7-bedroom home with generous living spaces and a private garden, built in 2019. Hardwood floors, a modern heating system and a quiet neighbourhood: a home you can settle into straight away.',
     image: House8,
     imageLg: House8Lg,
     country: 'Canada',
@@ -291,7 +291,7 @@ export const housesData = [
     type: 'House',
     name: 'House 9',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Well-kept 4600 sq ft property in Alexandria, ideal for a growing family. The open-plan kitchen flows into a sunny living room, and the 4 bathrooms keep busy mornings easy. Schools, shops and parks are all within a few minutes.',
     image: House9,
     imageLg: House9Lg,
     country: 'United States',
@@ -312,7 +312,7 @@ export const housesData = [
     type: 'House',
     name: 'House 10',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'A bright family home built in 2014, with 5 bedrooms and 2 bathrooms spread over 5200 sq ft. Large windows, a fully equipped kitchen and a two-car garage make everyday life simple. Move-in ready, with nothing to renovate.',
     image: House10,
     imageLg: House10Lg,
     country: 'Canada',
@@ -333,7 +333,7 @@ export const housesData = [
     type: 'House',
     name: 'House 11',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Spacious 3200 sq ft house in a quiet residential street of Warminster, completed in 2011. The master suite has its own bathroom, while the backyard offers plenty of room for summer evenings. Close to major roads and local amenities.',
     image: House11,
     imageLg: House11Lg,
     country: 'United States',
@@ -354,7 +354,7 @@ export const housesData = [
     type: 'House',
     name: 'House 12',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Welcoming 4-bedroom home with generous living spaces and a private garden, built in 2013. Hardwood floors, a modern heating system and a quiet neighbourhood: a home you can settle into straight away.',
     image: House12,
     imageLg: House12Lg,
     country: 'Canada',
@@ -375,7 +375,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 16',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Bright 2-bedroom apartment in the city, in a well-maintained building from 2011. A practical layout, a fitted kitchen and low running costs make it a great first home or rental investment. Public transport is just around the corner.',
     image: Apartment4,
     imageLg: Apartment4Lg,
     country: 'Canada',
@@ -396,7 +396,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 17',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Cosy 1000 sq ft apartment with 3 bedrooms, renovated and full of natural light. It comes with a balcony, secure parking and an elevator. Shops, cafés and transport are within walking distance.',
     image: Apartment5,
     imageLg: Apartment5Lg,
     country: 'United States',
@@ -417,7 +417,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 18',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Bright 3-bedroom apartment in Cocoa, in a well-maintained building from 2010. A practical layout, a fitted kitchen and low running costs make it a great first home or rental investment. Public transport is just around the corner.',
     image: Apartment6,
     imageLg: Apartment6Lg,
     country: 'Canada',
